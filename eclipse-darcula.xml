@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<colorTheme id="14888" name="IntelliJ IDEA Darcula" modified="2013-02-12 12:39:42" author="slovasic">
+<colorTheme id="14888" name="Eclipse Darcula" modified="2022-11-07 12:39:42" author="slovasic">
     <searchResultIndication color="#424445" />
     <filteredSearchResultIndication color="#000000" />
     <occurrenceIndication color="#424445" />
@@ -15,6 +15,7 @@
     <javadocTag color="#9876AA" bold="false" italic="false" underline="false" strikethrough="false" />
     <javadocKeyword color="#84B977" bold="false" italic="false" underline="false" strikethrough="false" />
     <class color="#A9B7C6" bold="false" underline="false" strikethrough="false" />
+    <abstractClass color="#A9B7C6" />     
     <interface color="#A9B7C6" />
     <method color="#A9B7C6" />
     <methodDeclaration color="#FFC66D" />

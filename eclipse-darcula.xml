@@ -37,8 +37,8 @@
     <inheritedMethod color="#D8D8D8" />
     <abstractMethod color="#D8D8D8" />
     <parameterVariable color="#D8D8D8" />
-    <typeArgument color="#A9B7C6" />
-    <typeParameter color="#A9B7C6" />
+    <typeArgument color="#D8D8D8" />
+    <typeParameter color="#D8D8D8" />
     <constant color="#9876AA" />
     <background color="#2B2B2B" />
     <currentLine color="#323232" />
